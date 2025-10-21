@@ -4,8 +4,15 @@ I'm passionate about **Artificial Intelligence**, **Data Analysis**, and **Softw
 Currently, I'm building an **AI-powered agriculture app** to support farmers across Africa.  
 I'm also a **Forex Trader** and **Founder of multiple online businesses**, combining business insight with technology and innovation.  
 
-👀 Interested in: AI & Machine Learning, Data Engineering, Software Development, FinTech, and Algorithmic Trading.  
-🌱 Learning: Advanced Python, Machine Learning, Neural Networks, and Cloud Computing.  
+👀 Interested in: Artificial Intelligence, Data Engineering, Software Development, FinTech, and Algorithmic Trading.  
+
+🌱 Learning:  
+- Artificial Intelligence and Machine Learning  
+- Software Engineering Principles  
+- Database Systems and Data Management  
+- Modern Web Stack Development  
+- User Interface and Experience Design  
+
 🤝 Open to collaborate on AI/ML projects focused on sustainability and agriculture.  
 
 📫 Reach me:  
