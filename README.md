@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @itsnotlambo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking forward to collaborate on coding or looking for help in coding
-- 📫 How to reach me:instagram;just_.lambo
-- 😄 Pronouns:Male 
-- ⚡ Fun fact: ...
+I'm **Lam James Akol Zakayo**, a **Computer Science (Data Science & AI)** student at the **University of Dundee (Class of 2028)**.  
+I'm passionate about **Artificial Intelligence**, **Data Analysis**, and **Software Development**.  
 
-<!---
-itsnotlambo/itsnotlambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently, I'm building an **AI-powered agriculture app** to support farmers across Africa.  
+I'm also a **Forex Trader** and **Founder of multiple online businesses**, combining business insight with technology and innovation.  
+
+👀 Interested in: AI & Machine Learning, Data Engineering, Software Development, FinTech, and Algorithmic Trading.  
+🌱 Learning: Advanced Python, Machine Learning, Neural Networks, and Cloud Computing.  
+🤝 Open to collaborate on AI/ML projects focused on sustainability and agriculture.  
+
+📫 Reach me:  
+- LinkedIn: [linkedin.com/in/lamjamesakolzakayo](https://linkedin.com/in/lamjamesakolzakayo)  
+- Instagram: [@just_.lambo](https://instagram.com/just_.lambo)  
+- Email: lamjamesakol@gmail.com  
+
+⚡ Fun fact: “Until the lion learns to write, every story will glorify the hunter.” 🦁  
